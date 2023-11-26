@@ -1,0 +1,15 @@
+{
+  "name": "boblox.js",
+  "version": "1.4.3",
+  "description": "Wrapper for the vast roblox api.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["roblox","robloxapi","api","wrapper","lib","library","beginner-friendly","simple"],
+  "author": "shadowpog",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  }
+}
